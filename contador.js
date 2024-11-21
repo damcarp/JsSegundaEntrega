@@ -60,4 +60,3 @@ function iniciarContador() {
     console.log("Alumnos reprobados por inasistencias:");
     alumnosReprobados.forEach(alumno => console.log(alumno.nombre));
 }
-
